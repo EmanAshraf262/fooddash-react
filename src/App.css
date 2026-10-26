@@ -1,0 +1,1028 @@
+body{
+    font-family: "Lexend";
+}
+.logo {
+    width: 140px;
+}
+.search {
+    background-color: #FF6000;
+    width: 45px;
+    height: 45px;
+    
+
+}
+.search i {
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.t-t{
+    top:526px;
+}
+.hh{
+top: -40px;
+}
+
+.search:hover {
+    background-color: #f25f04;
+}
+.img-icon{
+    width: 45px;
+    height: 45px;
+}
+.category-bar {
+    background: #FFEFE6;
+}
+
+.category-bar h4 {
+    font-size: 24px;
+    font-weight:500;
+    color: #1A2716;
+}
+
+.category-bar i {
+    font-size: 22px;
+    color: #1A2716;
+}
+.bg-header,
+.bg-header2 {
+    background-color: #FFEFE6;
+}
+
+.h-heading {
+
+    font-size: 40px;
+    font-weight: 600;
+
+}
+
+.h-heading2,
+.h-heading3
+{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.h span,
+.h-heading span,
+.h-heading2 span,
+.h-heading3 span {
+    color: #FF6000;
+}
+
+.btn-order-now {
+    background-color: #FF6000;
+    border-color: #FF6000;
+}
+
+.btn-order-now:hover {
+    background-color: #f15e03;
+    border-color: #f15e03;
+}
+
+.btn-order-now:active {
+    background-color: #d85504 !important;
+    border-color: #d85504 !important;
+}
+
+.btn-track-order {
+    border-color: #FF6000;
+    color: #FF6000;
+}
+
+.btn-track-order:hover {
+    background-color: #f15e03;
+    border-color: #f15e03;
+}
+
+.btn-track-order:active {
+    background-color: #d85504 !important;
+    border-color: #d85504 !important;
+}
+
+.d-box-heading {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.d-box-subheading {
+    color: #939393;
+    font-size: 0.8rem;
+}
+
+
+.section{
+    margin-top: 150px;
+}
+
+.h-subheading2,
+.h-subheading3 {
+    color: #B3B3B3;
+    font-size: 0.9rem;
+    
+}
+
+.p-name {
+    font-size: 1.1rem;
+    font-weight: 600;
+    padding-bottom: 0.7rem;
+}
+.pic{
+    width:250px;
+}
+
+.p-link {
+    color: #FF6000;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.btn-see-all {
+    background-color: #FF7B2B;
+    border-color: #FF7B2B;
+    color: #FFFFFF;
+    font-size: 0.9rem;
+    width: 100px;
+
+
+}
+
+.btn-see-all:hover {
+    background-color: #fe721c;
+    border-color: #FF7B2B;
+
+
+}
+
+.btn-see-all:active {
+    background-color: #fa6a11 !important;
+    border-color: #FF7B2B !important;
+
+}
+
+.row-cards {
+    margin-top: 150px;
+}
+
+.h {
+    font-weight: 600;
+}
+.im{
+    transform: scale(0.95);
+}
+
+
+.h,
+.h-1 {
+    font-size: 20px;
+}
+
+.h-2 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.food-rating i {
+    color: #FFC700;
+    font-size: 1rem;
+}
+
+.food-rating span {
+    color: #939393;
+    
+}
+.mg-t{
+    margin-top: 150px;
+}
+.left-img {
+    width: 100%;
+    height: 498px;
+
+}
+
+
+
+
+
+.footer-section {
+    background-color: #fff0e8;
+    border-top: 2px dashed #ff6000;
+    padding: 45px 0 55px;
+    margin-top: 50px;
+}
+
+.footer-logo {
+    font-size: 20px;
+    font-weight: 800;
+    color: #ff6000;
+    margin-bottom: 18px;
+}
+
+.footer-logo img {
+    width: 120px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.footer-about p {
+    color: #999;
+    font-size: 13px;
+    margin-bottom: 14px;
+}
+
+.footer-about h5 {
+    color: #ff6000;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 18px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 15px;
+}
+
+.social-icons i {
+    color: #999;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.social-icons i:hover {
+    color: #ff6000;
+}
+
+
+/* Footer links */
+
+.footer-links h4 {
+    color: #ff6000;
+    font-size: 21px;
+    font-weight: 700;
+    margin-bottom: 22px;
+}
+
+.footer-links a {
+    display: block;
+    text-decoration: none;
+    color: #999;
+    font-size: 13px;
+    margin-bottom: 17px;
+}
+
+.footer-links a:hover {
+    color: #ff6000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+ FOOD DASH RESPONSIVE */
+ 
+ 
+/* ---------- Laptop Screens ---------- */ 
+ 
+@media (max-width: 1199.98px) { 
+ 
+    .h-heading, 
+    .h-heading2, 
+    .h-heading3 { 
+        font-size: 34px; 
+    } 
+ 
+    /* Hero buttons: reduce width only */ 
+    .btn-order-now, 
+    .btn-track-order { 
+        width: 25% !important; 
+        max-width: 220px; 
+    } 
+ 
+    .d-box-heading { 
+        font-size: 1.15rem; 
+    } 
+ 
+    .d-box-subheading { 
+        font-size: 0.75rem; 
+    } 
+ 
+    .t-t { 
+        top: 500px; 
+    } 
+} 
+ 
+ 
+/* ---------- Tablet Screens ---------- */ 
+ 
+@media (max-width: 991.98px) { 
+ 
+    .h-heading, 
+    .h-heading2, 
+    .h-heading3 { 
+        text-align: center; 
+        font-size: 30px; 
+    } 
+ 
+    /* Hero buttons: reduce width only */ 
+    .btn-order-now, 
+    .btn-track-order { 
+        width: 43% !important; 
+        max-width: 220px; 
+        margin-left: auto; 
+        margin-right: auto; 
+    } 
+ 
+    /* Hero image: slightly larger */ 
+    .hh { 
+        top: 0; 
+        padding: 10px !important; 
+        display: block; 
+        width: 100%; 
+        max-width: 450px; 
+        height: auto; 
+        margin: 0 auto; 
+        transform: scale(0.92); 
+    } 
+ 
+    /* Delivery information */ 
+    .position-absolute.top-60 { 
+        position: relative !important; 
+        top: auto !important; 
+        left: auto !important; 
+        transform: none !important; 
+        width: 100% !important; 
+        margin: 20px auto 0; 
+    } 
+ 
+    .position-absolute.top-60 .row { 
+        row-gap: 20px; 
+    } 
+ 
+    .position-absolute.top-60 .row > .col-4 { 
+        width: 100%; 
+    } 
+ 
+    .d-box-heading { 
+        font-size: 1.1rem; 
+    } 
+ 
+    .d-box-subheading { 
+        font-size: 0.85rem; 
+    } 
+ 
+    .section { 
+        margin-top: 60px; 
+    } 
+ 
+    .position-absolute.top-60 img { 
+        max-width: 55px; 
+        height: auto; 
+        flex-shrink: 0; 
+    } 
+ 
+    .h-heading2, 
+    .h-heading3 { 
+        width: 100%; 
+        margin-bottom: 15px; 
+    } 
+ 
+    .h-subheading2, 
+    .h-subheading3 { 
+        text-align: center; 
+    } 
+ 
+    /* Regular Menu - heading, description aur See All center */ 
+    .col-8.d-flex.flex-column { 
+        flex: 0 0 100%; 
+        width: 100%; 
+        max-width: 100%; 
+        align-items: center !important; 
+    } 
+ 
+    .col-8.d-flex.flex-column > div { 
+        width: 100%; 
+        text-align: center; 
+    } 
+ 
+    .col-8.d-flex.flex-column .btn-see-all { 
+        float: none !important; 
+        display: inline-block; 
+        margin: 10px 0 0 !important; 
+    } 
+ 
+    /* Category bar */ 
+    .category-bar .d-flex.justify-content-between { 
+        overflow-x: auto; 
+        gap: 25px; 
+        padding-bottom: 5px; 
+        scrollbar-width: none; 
+    } 
+ 
+    .category-bar .d-flex.justify-content-between::-webkit-scrollbar { 
+        display: none; 
+    } 
+ 
+    .category-bar .d-flex.justify-content-between > div { 
+        flex-shrink: 0; 
+    } 
+ 
+    .category-bar h4 { 
+        font-size: 18px; 
+    } 
+ 
+    /* Product cards */ 
+    .row-cards { 
+        margin-top: 130px; 
+    } 
+ 
+    .row-cards > .col-4 { 
+        width: 50%; 
+        margin-top: 0; 
+        margin-bottom: calc(100px + 1vw); 
+        justify-content: center; 
+    } 
+ 
+    .row-cards .bg-header2 { 
+        width: 85% !important; 
+        margin: 0 auto; 
+    } 
+ 
+    .row-cards .bg-header2 > img { 
+        left: 50% !important; 
+        top: 0 !important; 
+        width: 55% !important; 
+        transform: translate(-50%, -50%) !important; 
+    } 
+ 
+    .row-cards .bg-header2 .pt-5 { 
+        padding-top: 5rem !important; 
+    } 
+} 
+ 
+ 
+/* ---------- Mobile Screens ---------- */ 
+ 
+@media (max-width: 767.98px) { 
+ 
+    .h-heading, 
+    .h-heading2, 
+    .h-heading3 { 
+        font-size: 26px; 
+        text-align: center; 
+    } 
+ 
+    /* Hero buttons: reduce width only */ 
+    .btn-order-now, 
+    .btn-track-order { 
+        display: block; 
+        width: 48% !important; 
+        max-width: 200px; 
+        min-width: 0 !important; 
+        margin-left: auto !important; 
+        margin-right: auto !important; 
+    } 
+ 
+    /* Hero image: slightly larger */ 
+    .hh { 
+        top: 0; 
+        padding: 5px !important; 
+        display: block; 
+        width: 100%; 
+        max-width: 380px; 
+        height: auto; 
+        margin: 0 auto; 
+        transform: scale(0.92); 
+    } 
+ 
+    /* Hero heading spacing */ 
+    .h-heading { 
+        line-height: 1.5; 
+        margin-bottom: 8px; 
+    } 
+ 
+    /* Delivery information */ 
+    .position-absolute.top-60 { 
+        width: 100% !important; 
+        padding: 15px !important; 
+    } 
+ 
+    .position-absolute.top-60 .row > .col-4 { 
+        width: 100%; 
+        gap: 12px !important; 
+    } 
+ 
+    .d-box-heading { 
+        font-size: 1rem; 
+    } 
+ 
+    .d-box-subheading { 
+        font-size: 0.8rem; 
+    } 
+ 
+    .section { 
+        margin-top: 45px; 
+    } 
+ 
+    .h-heading2, 
+    .h-heading3 { 
+        text-align: center; 
+    } 
+ 
+    .h-subheading2, 
+    .h-subheading3 { 
+        text-align: center; 
+        margin-top: 10px; 
+    } 
+ 
+    .section .row > .col-4 { 
+        width: 100%; 
+    } 
+ 
+    section .row > .col-4.h-heading3, 
+    section .row > .col-5.h-heading3 { 
+        width: 100%; 
+        text-align: center; 
+    } 
+ 
+    /* Regular Menu: See All button */ 
+    .btn-see-all { 
+        display: inline-block; 
+        width: 100px; 
+        margin: 0 !important; 
+        float: none !important; 
+        vertical-align: middle; 
+        flex-shrink: 0; 
+    } 
+ 
+    /* Product cards */ 
+    .row-cards { 
+        margin-top: calc(45px + 0.217 * (100vw - 24px));   /* pehle 165px tha, ab See All aur circle ke beech har screen par lagbhag 45px ka gap */ 
+    } 
+ 
+    .row-cards > .col-4 { 
+        width: 100%; 
+        margin-top: 0; 
+        margin-bottom: calc(0.29 * (100vw - 24px)); 
+    } 
+ 
+    .row-cards > .col-4:last-child { 
+        margin-bottom: calc(40px - 3vw); 
+    } 
+ 
+    .row-cards .bg-header2 { 
+        width: 85% !important; 
+    } 
+ 
+    /* Regular Menu circles: slightly smaller on mobile */ 
+    .row-cards .bg-header2 > img { 
+        width: 51% !important; 
+    } 
+ 
+    /* Default gap between circle and text */ 
+    .row-cards .bg-header2 .pt-5 { 
+        padding-top: calc(5rem - 8px) !important; 
+    } 
+ 
+    /* Indian Dessert: text and following content slightly lower */ 
+    .row-cards > .col-4:first-child .bg-header2 .pt-5 { 
+        padding-top: calc(5rem - 8px + 5%) !important; 
+    } 
+ 
+    /* South Indian: text and following content slightly lower */ 
+    .row-cards > .col-4:nth-child(4) .bg-header2 .pt-5 { 
+        padding-top: calc(5rem - 8px + 3%) !important; 
+    } 
+ 
+    /* Bottom images */ 
+    section .col-5.mt-5, 
+    section .col-7.mt-5 { 
+        width: 100%; 
+        margin-top: 15px !important; 
+    } 
+ 
+    /* red aur brown image ke beech ka space, coupon aur red ke beech ke barabar (15px) */ 
+    .col-7.mt-5 img.mb-4 { 
+        margin-bottom: 15px !important; 
+    } 
+ 
+    .left-img { 
+        width: 100%; 
+        height: auto; 
+        display: block; 
+    } 
+ 
+    /* Footer (mobile) */ 
+    .footer-section { 
+        text-align: center; 
+        margin-top: calc(50px - 3vw); 
+    } 
+ 
+    .footer-about { 
+        width: 100% !important; 
+        margin-bottom: 20px; 
+    } 
+ 
+    .social-icons { 
+        justify-content: center !important; 
+    } 
+ 
+    /* Menu aur Information 2 columns, Contact neeche full width */ 
+    .footer-section .row > [class*="col"] { 
+        flex: 0 0 50% !important; 
+        width: 50% !important; 
+        max-width: 50% !important; 
+        text-align: center; 
+        margin-bottom: 20px; 
+    } 
+ 
+    .footer-section .row > [class*="col"]:first-child, 
+    .footer-section .row > [class*="col"]:last-child { 
+        flex: 0 0 100% !important; 
+        width: 100% !important; 
+        max-width: 100% !important; 
+    } 
+ 
+    /* Menu aur Information ke left, beech aur right ka space teeno jagah barabar */ 
+    .footer-section .row { 
+        justify-content: space-evenly; 
+    } 
+ 
+    .footer-section .row > [class*="col"]:not(:first-child):not(:last-child) { 
+        flex: 0 0 auto !important; 
+        width: auto !important; 
+        max-width: none !important; 
+        padding-left: 0; 
+        padding-right: 0; 
+        margin-left: 0; 
+        margin-right: 0; 
+    } 
+} 
+ 
+ 
+/* Footer (tablet 768px - 991px) */ 
+ 
+@media (min-width: 768px) and (max-width: 991.98px) { 
+ 
+    .footer-section { 
+        text-align: center; 
+    } 
+ 
+    .footer-about { 
+        width: 100% !important; 
+        margin-bottom: 20px; 
+    } 
+ 
+    .social-icons { 
+        justify-content: center !important; 
+    } 
+ 
+    /* About upar, teeno link columns ek line mein */ 
+    .footer-section .row > [class*="col"] { 
+        flex: 0 0 33.3333% !important; 
+        width: 33.3333% !important; 
+        max-width: 33.3333% !important; 
+        text-align: center; 
+        margin-bottom: 20px; 
+    } 
+ 
+    .footer-section .row > [class*="col"]:first-child { 
+        flex: 0 0 100% !important; 
+        width: 100% !important; 
+        max-width: 100% !important; 
+    } 
+} 
+ 
+ 
+/* Footer ke upar wali pics - left coupon image ab right ki dono images ki height ke barabar */ 
+ 
+@media (min-width: 768px) and (max-width: 1199.98px) { 
+ 
+    .col-5.mt-5 { 
+        position: relative; 
+    } 
+ 
+    .col-5.mt-5 .left-img { 
+        position: absolute; 
+        top: 0; 
+        left: calc(var(--bs-gutter-x) * 0.5); 
+        width: calc(100% - var(--bs-gutter-x)); 
+        height: 100% !important; 
+        object-fit: fill; 
+    } 
+} 
+ 
+ 
+/* Tablet - pics ke dono taraf utni hi padding jitni upar cards ki hai */ 
+ 
+@media (min-width: 768px) and (max-width: 991.98px) { 
+ 
+    .row:has(> .col-5.mt-5) { 
+        padding-left: calc(3.75% - 1px); 
+        padding-right: calc(3.75% - 1px); 
+    } 
+} 
+ 
+ 
+/* Tablet - pics ke upar ka space ab pics ke neeche (footer tak) ke space ke barabar (50px) */ 
+ 
+@media (min-width: 768px) and (max-width: 991.98px) { 
+ 
+    .row-cards > .col-4:nth-last-child(-n+2) { 
+        margin-bottom: 0; 
+    } 
+ 
+    section .col-5.mt-5, 
+    section .col-7.mt-5 { 
+        margin-top: 50px !important; 
+    } 
+} 
+ 
+ 
+/* ---------- Small Mobile Screens ---------- */ 
+ 
+@media (max-width: 575.98px) { 
+ 
+    .h-heading, 
+    .h-heading2, 
+    .h-heading3 { 
+        font-size: 22px; 
+        text-align: center; 
+    } 
+ 
+    /* Hero buttons: reduce width only */ 
+    .btn-order-now, 
+    .btn-track-order { 
+        width: 52% !important; 
+        max-width: 180px; 
+        min-width: 0 !important; 
+        margin-left: auto !important; 
+        margin-right: auto !important; 
+    } 
+ 
+    /* Hero image: slightly larger */ 
+    .hh { 
+        padding: 5px !important; 
+        width: 100%; 
+        max-width: 340px; 
+        transform: scale(0.92); 
+    } 
+ 
+    .h-heading { 
+        line-height: 1.5; 
+        margin-bottom: 6px; 
+    } 
+ 
+    /* Delivery information */ 
+    .position-absolute.top-60 { 
+        padding: 12px !important; 
+    } 
+ 
+    .position-absolute.top-60 .row { 
+        row-gap: 18px; 
+    } 
+ 
+    .d-box-heading { 
+        font-size: 0.95rem; 
+    } 
+ 
+    .d-box-subheading { 
+        font-size: 0.75rem; 
+        line-height: 1.5; 
+    } 
+ 
+    .position-absolute.top-60 img { 
+        max-width: 45px; 
+    } 
+ 
+    .section { 
+        margin-top: 35px; 
+    } 
+ 
+    /* Category bar */ 
+    .category-bar h4 { 
+        font-size: 16px; 
+    } 
+ 
+    .category-bar i { 
+        font-size: 18px; 
+    } 
+ 
+    /* Food images */ 
+    .im { 
+        max-width: 100%; 
+        height: auto; 
+    } 
+ 
+    /* Product cards */ 
+    .row-cards { 
+        margin-top: calc(45px + 0.2295 * (100vw - 24px));   /* chhote phones par bhi See All aur circle ke beech lagbhag 45px ka gap */ 
+    } 
+ 
+    .row-cards > .col-4 { 
+        margin-bottom: calc(0.306 * (100vw - 24px)); 
+    } 
+ 
+    .row-cards .bg-header2 { 
+        width: 90% !important; 
+    } 
+ 
+    .row-cards .bg-header2 > img { 
+        width: 51% !important; 
+    } 
+ 
+    /* Default gap between circle and text */ 
+    .row-cards .bg-header2 .pt-5 { 
+        padding-top: calc(5rem - 8px) !important; 
+    } 
+ 
+    /* Indian Dessert: slightly lower on small mobile */ 
+    .row-cards > .col-4:first-child .bg-header2 .pt-5 { 
+        padding-top: calc(5rem - 8px + 5%) !important; 
+    } 
+ 
+    /* South Indian: slightly lower on small mobile */ 
+    .row-cards > .col-4:nth-child(4) .bg-header2 .pt-5 { 
+        padding-top: calc(5rem - 8px + 3%) !important; 
+    } 
+ 
+    .h-2 { 
+        font-size: 23px; 
+    } 
+ 
+    .p-name { 
+        font-size: 1rem; 
+    } 
+ 
+    .p-link { 
+        font-size: 1rem; 
+    } 
+ 
+    /* See All button */ 
+    .btn-see-all { 
+        width: 100px; 
+        margin: 0 !important; 
+    } 
+ 
+    /* Footer */ 
+    .footer-section { 
+        padding: 35px 0; 
+    } 
+} 
+ 
+ 
+/* ---------- HERO TEXT - sirf tablet + mobile, laptop par kuch change nahi ---------- */ 
+/* Ye block file ke sab se aakhir mein hona zaroori hai, taake upar ke font-size rules ko override kare */ 
+ 
+@media (max-width: 991.98px) { 
+ 
+    .h-heading { 
+        max-width: 13em; 
+        margin-left: auto; 
+        margin-right: auto; 
+        margin-bottom: 14px; 
+        line-height: 1.45; 
+        text-wrap: balance; 
+    } 
+} 
+ 
+@media (max-width: 767.98px) { 
+ 
+    .h-heading { 
+        font-size: 28px; 
+    } 
+} 
+ 
+@media (max-width: 575.98px) { 
+ 
+    .h-heading { 
+        font-size: 24px; 
+    } 
+} 
+ 
+@media (max-width: 380px) { 
+ 
+    .h-heading { 
+        font-size: 22px; 
+    } 
+}
+
+
+/* ---------- NAVBAR - sirf phone (575px tak) ---------- */
+/* Logo, "Click me" button, search aur avatar ab har phone par ek hi row mein aate hain */
+
+@media (max-width: 575.98px) {
+
+    /* Logo: screen ke hisab se chhota hota hai (80px se 140px tak) */
+    .navbar .navbar-brand {
+        margin-right: 0;
+    }
+
+    .navbar .logo {
+        width: clamp(80px, 26vw, 140px);
+        height: auto;
+    }
+
+    /* "Click me" button thora chhota */
+    .navbar .navbar-toggler {
+        font-size: 0.9rem;
+        padding: 0.2rem 0.6rem;
+        flex-shrink: 0;
+    }
+
+    /* Search circle + avatar chhote, aur apni jagah par barabar */
+    .navbar .search {
+        width: clamp(34px, 10.5vw, 45px);
+        height: clamp(34px, 10.5vw, 45px);
+        flex-shrink: 0;
+    }
+
+    .navbar .search i {
+        font-size: clamp(14px, 4.4vw, 20px);
+    }
+
+    .navbar .img-icon {
+        width: clamp(34px, 10.5vw, 45px);
+        height: clamp(34px, 10.5vw, 45px);
+        flex-shrink: 0;
+    }
+
+    /* Menu khulne par wo neeche aata hai, icons upar ki row mein hi rehte hain */
+    .navbar .navbar-collapse {
+        order: 3;
+    }
+}
+
+/* "Click me" button: tablet (991px tak) aur mobile par orange pill */
+@media (max-width: 991.98px) {
+    .navbar .navbar-toggler {
+        font-size: 0.9rem;
+        padding: 0.2rem 0.6rem;
+        border: 1px solid #FF6000;
+        color: #FF6000;
+        border-radius: 50px;
+        background: transparent;
+    }
+}
+
+/* sirf tablet (576px se 991px) par "Click me" button thora bara, mobile par pehle jaisa hi rehta hai */
+@media (min-width: 576px) and (max-width: 991.98px) {
+    .navbar .navbar-toggler {
+        font-size: 1.05rem;
+        padding: 0.3rem 0.95rem;
+    }
+}
+
+
+/* ---------- CHANGED (NEW): NAVBAR MENU - tablet + mobile (991px tak) ---------- */
+@media (max-width: 991.98px) {
+
+    /* Menu khulne par search aur avatar upar ki row mein hi rahein, neeche na jayein (pehle ye sirf 575px tak tha) */
+    .navbar .navbar-collapse {
+        order: 3;
+    }
+
+    /* Home, Menu, Offers... ab left ki jagah button ke neeche, beech mein khulte hain */
+    .navbar .navbar-collapse .navbar-nav {
+        align-items: center;
+        text-align: center;
+    }
+}
